@@ -1,0 +1,12 @@
+# Ignorar datasets grandes
+data/*.zip
+data/*.csv
+data/*.parquet
+data/*.npy
+data/*.npz
+
+# Cosas de entorno
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
