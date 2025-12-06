@@ -1,4 +1,5 @@
 # Ignorar datasets grandes
+data/
 data/*.zip
 data/*.csv
 data/*.parquet
