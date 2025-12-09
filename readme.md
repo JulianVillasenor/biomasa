@@ -1,15 +1,16 @@
-# 🌱 Proyecto Biomasa – CSIRO Image2Biomass
+# Proyecto Biomasa – CSIRO Image2Biomass
 
 Repositorio para el proyecto de la competencia:
 
 > **CSIRO - Image2Biomass Prediction**  
 > https://www.kaggle.com/competitions/csiro-biomass
-
+Notebook de la competencia:
+> https://www.kaggle.com/code/julianvillaseor/biomass
 El objetivo es predecir la biomasa del pasto a partir de imágenes y mediciones de campo.
 
 ---
 
-## 📦 Estructura del proyecto
+##  Estructura del proyecto
 
 ```text
 biomasa/
